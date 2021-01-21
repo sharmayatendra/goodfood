@@ -1,0 +1,25 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.container {
+  margin: auto;
+  align-items: center;
+}
+.button {
+  font-size: 10px;
+  font-weight: bold;
+  border: 2px solid black;
+  margin: 3px;
+  border-bottom-right-radius: 8px;
+  width: 100px;
+  height: 30px;
+}
+.list-div {
+  background-color: grey;
+  margin: 5px;
+  border-top-right-radius: 8px;
+  height: 35px;
+  padding: 4px;
+  font-size: large;
+}
