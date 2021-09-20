@@ -4,15 +4,18 @@ export default function App() {
   var foodDatabase = {
     NorthIndian: [
       { name: "Kadhai Paneer", rating: "5/5" },
-      { name: "Shahi Paneer", rating: "4.8/5" }
+      { name: "Shahi Paneer", rating: "4.8/5" },
+      { name: "Dal Makhani", rating: "4.5/5" }
     ],
     Chinese: [
       { name: "Noodles", rating: "4.9/5" },
-      { name: "Momos", rating: "4.9/5" }
+      { name: "Momos", rating: "4.9/5" },
+      { name: "Spring roll", rating: "4/5" }
     ],
     Beverages: [
       { name: "Coca-cola", rating: "5/5" },
-      { name: "Mint mojito", rating: "5/5" }
+      { name: "Mint mojito", rating: "5/5" },
+      { name: "Cold coffee", rating: "4/5" }
     ]
   };
 
